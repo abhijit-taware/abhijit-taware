@@ -25,15 +25,13 @@ Data Engineer
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 4.7 kB Used in GitHub's Storage 
+> 📦 6.3 kB Used in GitHub's Storage 
  > 
-> 🏆 10 Contributions in the Year 2026
+> 🏆 12 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,45 +39,6 @@ Data Engineer
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                71 commits          ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
-🌆 Daytime                121 commits         ██████████░░░░░░░░░░░░░░░   40.88 % 
-🌃 Evening                91 commits          ████████░░░░░░░░░░░░░░░░░   30.74 % 
-🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-Tuesday                  24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Wednesday                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Thursday                 69 commits          ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
-Friday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Saturday                 33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Sunday                   109 commits         █████████░░░░░░░░░░░░░░░░   36.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -96,5 +55,5 @@ HCL                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhijit-taware/abhijit-taware/main/assets/bar_graph.png)
 
 
- Last Updated on 10/01/2026 13:11:53 UTC
+ Last Updated on 10/01/2026 18:51:57 UTC
 <!--END_SECTION:waka-->
