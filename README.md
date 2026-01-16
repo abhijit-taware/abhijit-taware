@@ -25,13 +25,13 @@ Data Engineer
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2026%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-94-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 9.8 kB Used in GitHub's Storage 
+> 📦 10.4 kB Used in GitHub's Storage 
  > 
 > 🏆 13 Contributions in the Year 2026
  > 
@@ -68,20 +68,20 @@ Sunday                   113 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Terraform                42 mins             ██████████░░░░░░░░░░░░░░░   39.82 % 
-Text                     30 mins             ███████░░░░░░░░░░░░░░░░░░   29.09 % 
-Python                   12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Git Config               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-HCL                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Terraform                1 hr 9 mins         ████████████░░░░░░░░░░░░░   47.36 % 
+Text                     30 mins             █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+HCL                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Python                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 
 🔥 Editors: 
-Antigravity              1 hr 45 mins        █████████████████████████   100.00 % 
+Antigravity              2 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AzureDataFactory         1 hr 45 mins        █████████████████████████   100.00 % 
+AzureDataFactory         2 hrs 25 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 45 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -100,5 +100,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhijit-taware/abhijit-taware/main/assets/bar_graph.png)
 
 
- Last Updated on 15/01/2026 19:02:08 UTC
+ Last Updated on 16/01/2026 18:56:22 UTC
 <!--END_SECTION:waka-->
