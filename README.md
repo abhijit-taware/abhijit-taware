@@ -27,11 +27,11 @@ Data Engineer
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2026%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-105-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 11.1 kB Used in GitHub's Storage 
+> 📦 11.7 kB Used in GitHub's Storage 
  > 
 > 🏆 13 Contributions in the Year 2026
  > 
@@ -68,20 +68,20 @@ Sunday                   113 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Terraform                1 hr 9 mins         ████████████░░░░░░░░░░░░░   47.36 % 
-Text                     30 mins             █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-HCL                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-Python                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Terraform                1 hr 15 mins        ████████████░░░░░░░░░░░░░   46.88 % 
+Text                     38 mins             ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+HCL                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Python                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
 
 🔥 Editors: 
-Antigravity              2 hrs 25 mins       █████████████████████████   100.00 % 
+Antigravity              2 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AzureDataFactory         2 hrs 25 mins       █████████████████████████   100.00 % 
+AzureDataFactory         2 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -100,5 +100,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhijit-taware/abhijit-taware/main/assets/bar_graph.png)
 
 
- Last Updated on 17/01/2026 18:50:56 UTC
+ Last Updated on 18/01/2026 18:50:29 UTC
 <!--END_SECTION:waka-->
