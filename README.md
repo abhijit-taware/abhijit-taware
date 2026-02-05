@@ -25,13 +25,13 @@ Data Engineer
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 14.6 kB Used in GitHub's Storage 
+> 📦 15.2 kB Used in GitHub's Storage 
  > 
 > 🏆 13 Contributions in the Year 2026
  > 
@@ -68,16 +68,18 @@ Sunday                   113 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     11 mins             █████████████████████████   100.00 % 
+YAML                     11 mins             ██████████████░░░░░░░░░░░   55.94 % 
+Python                   9 mins              ███████████░░░░░░░░░░░░░░   44.06 % 
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+VS Code                  21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RENDERCV                 11 mins             █████████████████████████   100.00 % 
+RENDERCV                 11 mins             ██████████████░░░░░░░░░░░   55.94 % 
+GX                       9 mins              ███████████░░░░░░░░░░░░░░   44.06 % 
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+Windows                  21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,5 +98,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhijit-taware/abhijit-taware/main/assets/bar_graph.png)
 
 
- Last Updated on 04/02/2026 19:23:06 UTC
+ Last Updated on 05/02/2026 19:14:10 UTC
 <!--END_SECTION:waka-->
