@@ -31,7 +31,7 @@ Data Engineer
 
 **🐱 My GitHub Data** 
 
-> 📦 11.8 kB Used in GitHub's Storage 
+> 📦 12.4 kB Used in GitHub's Storage 
  > 
 > 🏆 15 Contributions in the Year 2026
  > 
@@ -99,5 +99,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhijit-taware/abhijit-taware/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2026 19:02:20 UTC
+ Last Updated on 16/02/2026 19:11:05 UTC
 <!--END_SECTION:waka-->
