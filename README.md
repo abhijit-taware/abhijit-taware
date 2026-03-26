@@ -25,13 +25,13 @@ Data Engineer
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 14.7 kB Used in GitHub's Storage 
+> 📦 15.3 kB Used in GitHub's Storage 
  > 
 > 🏆 15 Contributions in the Year 2026
  > 
@@ -68,16 +68,18 @@ Sunday                   113 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 5 mins              ████████████░░░░░░░░░░░░░   47.26 % 
+Python                   3 mins              ████████░░░░░░░░░░░░░░░░░   31.89 % 
+Text                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity              12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+DataGenerationAPI        12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,5 +98,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhijit-taware/abhijit-taware/main/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2026 19:25:45 UTC
+ Last Updated on 26/03/2026 19:37:29 UTC
 <!--END_SECTION:waka-->
