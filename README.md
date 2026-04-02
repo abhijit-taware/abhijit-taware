@@ -31,7 +31,7 @@ Data Engineer
 
 **🐱 My GitHub Data** 
 
-> 📦 8.5 kB Used in GitHub's Storage 
+> 📦 9.1 kB Used in GitHub's Storage 
  > 
 > 🏆 15 Contributions in the Year 2026
  > 
@@ -68,18 +68,16 @@ Sunday                   113 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 5 mins              ████████████░░░░░░░░░░░░░   47.26 % 
-Python                   3 mins              ████████░░░░░░░░░░░░░░░░░   31.89 % 
-Text                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Antigravity              12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-DataGenerationAPI        12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -98,5 +96,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhijit-taware/abhijit-taware/main/assets/bar_graph.png)
 
 
- Last Updated on 01/04/2026 19:38:10 UTC
+ Last Updated on 02/04/2026 19:29:48 UTC
 <!--END_SECTION:waka-->
