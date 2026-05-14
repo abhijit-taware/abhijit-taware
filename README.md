@@ -25,13 +25,13 @@ Data Engineer
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 13.8 kB Used in GitHub's Storage 
+> 📦 14.5 kB Used in GitHub's Storage 
  > 
 > 🏆 23 Contributions in the Year 2026
  > 
@@ -68,16 +68,20 @@ Sunday                   115 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Bash                     4 mins              █████████████████████████   100.00 % 
+Terraform                33 mins             ██████████████████░░░░░░░   71.79 % 
+HCL                      8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Bash                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+VS Code                  46 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-job-hunter               4 mins              █████████████████████████   100.00 % 
+AzureVMTerraform         41 mins             ██████████████████████░░░   89.60 % 
+job-hunter               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+Windows                  46 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,5 +100,5 @@ Python                   2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhijit-taware/abhijit-taware/main/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2026 20:17:30 UTC
+ Last Updated on 14/05/2026 20:14:22 UTC
 <!--END_SECTION:waka-->
