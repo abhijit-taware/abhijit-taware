@@ -25,13 +25,11 @@ Data Engineer
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2012%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 14.8 kB Used in GitHub's Storage 
+> 📦 15.5 kB Used in GitHub's Storage 
  > 
 > 🏆 23 Contributions in the Year 2026
  > 
@@ -96,5 +94,5 @@ Python                   2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhijit-taware/abhijit-taware/main/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2026 20:35:00 UTC
+ Last Updated on 18/06/2026 21:02:56 UTC
 <!--END_SECTION:waka-->
