@@ -25,13 +25,13 @@ Data Engineer
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 12.8 kB Used in GitHub's Storage 
+> 📦 13.4 kB Used in GitHub's Storage 
  > 
 > 🏆 23 Contributions in the Year 2026
  > 
@@ -68,19 +68,21 @@ Sunday                   115 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Bash                     18 mins             ███████████████░░░░░░░░░░   58.46 % 
-SQL                      7 mins              ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
-Python                   5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Python                   1 hr 3 mins         ███████████████░░░░░░░░░░   60.47 % 
+Bash                     18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Docker                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+SQL                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 44 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AL_WALMART_ETE_DE_PROJECT32 mins             █████████████████████████   100.00 % 
+KokoroTTS                1 hr 12 mins        █████████████████░░░░░░░░   69.09 % 
+AL_WALMART_ETE_DE_PROJECT32 mins             ████████░░░░░░░░░░░░░░░░░   30.91 % 
 
 💻 Operating System: 
-Windows                  32 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 44 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -99,5 +101,5 @@ Python                   2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhijit-taware/abhijit-taware/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2026 19:42:32 UTC
+ Last Updated on 19/07/2026 19:41:14 UTC
 <!--END_SECTION:waka-->
