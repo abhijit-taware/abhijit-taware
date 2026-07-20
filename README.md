@@ -31,7 +31,7 @@ Data Engineer
 
 **🐱 My GitHub Data** 
 
-> 📦 13.4 kB Used in GitHub's Storage 
+> 📦 14.0 kB Used in GitHub's Storage 
  > 
 > 🏆 23 Contributions in the Year 2026
  > 
@@ -68,21 +68,21 @@ Sunday                   115 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 3 mins         ███████████████░░░░░░░░░░   60.47 % 
-Bash                     18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Docker                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-SQL                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Python                   1 hr                ██████████████████░░░░░░░   71.13 % 
+Bash                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Docker                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🔥 Editors: 
-VS Code                  1 hr 44 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 25 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-KokoroTTS                1 hr 12 mins        █████████████████░░░░░░░░   69.09 % 
-AL_WALMART_ETE_DE_PROJECT32 mins             ████████░░░░░░░░░░░░░░░░░   30.91 % 
+KokoroTTS                1 hr 12 mins        █████████████████████░░░░   85.53 % 
+AL_WALMART_ETE_DE_PROJECT12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
 
 💻 Operating System: 
-Windows                  1 hr 44 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -101,5 +101,5 @@ Python                   2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhijit-taware/abhijit-taware/main/assets/bar_graph.png)
 
 
- Last Updated on 19/07/2026 19:41:14 UTC
+ Last Updated on 20/07/2026 20:07:03 UTC
 <!--END_SECTION:waka-->
