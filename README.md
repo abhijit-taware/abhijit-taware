@@ -25,11 +25,13 @@ Data Engineer
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2021%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 16.5 kB Used in GitHub's Storage 
+> 📦 6.5 kB Used in GitHub's Storage 
  > 
 > 🏆 23 Contributions in the Year 2026
  > 
@@ -39,6 +41,48 @@ Data Engineer
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                88 commits          ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+🌆 Daytime                124 commits         ████████░░░░░░░░░░░░░░░░░   32.04 % 
+🌃 Evening                162 commits         ██████████░░░░░░░░░░░░░░░   41.86 % 
+🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Tuesday                  50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Wednesday                44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Thursday                 76 commits          █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Friday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Saturday                 51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Sunday                   115 commits         ███████░░░░░░░░░░░░░░░░░░   29.72 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   58 mins             ████████████████████░░░░░   80.43 % 
+Docker                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+
+🔥 Editors: 
+VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+KokoroTTS                1 hr 12 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -55,5 +99,5 @@ Python                   2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhijit-taware/abhijit-taware/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:55:24 UTC
+ Last Updated on 25/07/2026 19:43:52 UTC
 <!--END_SECTION:waka-->
