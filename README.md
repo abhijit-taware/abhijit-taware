@@ -31,7 +31,7 @@ Data Engineer
 
 **🐱 My GitHub Data** 
 
-> 📦 6.5 kB Used in GitHub's Storage 
+> 📦 7.2 kB Used in GitHub's Storage 
  > 
 > 🏆 23 Contributions in the Year 2026
  > 
@@ -68,19 +68,16 @@ Sunday                   115 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   58 mins             ████████████████████░░░░░   80.43 % 
-Docker                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-KokoroTTS                1 hr 12 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -99,5 +96,5 @@ Python                   2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhijit-taware/abhijit-taware/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:43:52 UTC
+ Last Updated on 26/07/2026 19:44:05 UTC
 <!--END_SECTION:waka-->
