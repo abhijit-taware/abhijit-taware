@@ -25,11 +25,15 @@ Data Engineer
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2036%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2019%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 13.7 kB Used in GitHub's Storage 
+> 📦 14.4 kB Used in GitHub's Storage 
  > 
 > 🏆 23 Contributions in the Year 2026
  > 
@@ -39,6 +43,51 @@ Data Engineer
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                88 commits          ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+🌆 Daytime                124 commits         ████████░░░░░░░░░░░░░░░░░   32.04 % 
+🌃 Evening                162 commits         ██████████░░░░░░░░░░░░░░░   41.86 % 
+🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Tuesday                  50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Wednesday                44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Thursday                 76 commits          █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Friday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Saturday                 51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Sunday                   115 commits         ███████░░░░░░░░░░░░░░░░░░   29.72 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -55,5 +104,5 @@ Python                   2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhijit-taware/abhijit-taware/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:24:18 UTC
+ Last Updated on 07/08/2026 19:30:02 UTC
 <!--END_SECTION:waka-->
