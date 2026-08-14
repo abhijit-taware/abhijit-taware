@@ -25,15 +25,15 @@ Data Engineer
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2059%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2019%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 18.8 kB Used in GitHub's Storage 
+> 📦 19.4 kB Used in GitHub's Storage 
  > 
 > 🏆 25 Contributions in the Year 2026
  > 
@@ -70,16 +70,17 @@ Sunday                   115 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Terraform                1 hr 2 mins         ███████████████████░░░░░░   75.27 % 
+HCL                      20 mins             ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 22 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Novacart_azure_datatocrun1 hr 22 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -104,5 +105,5 @@ Python                   2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhijit-taware/abhijit-taware/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 19:35:04 UTC
+ Last Updated on 14/08/2026 19:29:09 UTC
 <!--END_SECTION:waka-->
