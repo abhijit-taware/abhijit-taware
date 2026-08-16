@@ -25,15 +25,15 @@ Data Engineer
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 20.0 kB Used in GitHub's Storage 
+> 📦 7.2 kB Used in GitHub's Storage 
  > 
 > 🏆 25 Contributions in the Year 2026
  > 
@@ -70,32 +70,52 @@ Sunday                   115 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Terraform                1 hr 2 mins         ███████████████████░░░░░░   75.27 % 
-HCL                      20 mins             ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
+Terraform                2 hrs 2 mins        ███████████░░░░░░░░░░░░░░   45.44 % 
+HCL                      1 hr 22 mins        ████████░░░░░░░░░░░░░░░░░   30.41 % 
+Text                     1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 22 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Novacart_azure_datatocrun1 hr 22 mins        █████████████████████████   100.00 % 
+Novacart_azure_datatocrun4 hrs 20 mins       ████████████████████████░   96.45 % 
+AzureCloudProjects       9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 💻 Operating System: 
-Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 47 mins (17.61%)
+
+✍️ 162 lines written by AI, 687 lines written by hand (19.08% AI-written)
+
+🔤 82,817 Input Tokens, 341 Output Tokens
+
+💵 $0.25 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 5 AI Prompts
+
+Github-Copilot           162 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 19.08% of written lines came from AI
+📝 Concise Prompter — average 131 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 81.82% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               6 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HCL                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+JavaScript               6 repos             ████████████░░░░░░░░░░░░░   46.15 % 
+Jupyter Notebook         3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+HCL                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
 ```
 
 
@@ -105,5 +125,5 @@ Python                   2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhijit-taware/abhijit-taware/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2026 18:56:40 UTC
+ Last Updated on 16/08/2026 18:56:42 UTC
 <!--END_SECTION:waka-->
