@@ -25,15 +25,15 @@ Data Engineer
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 7.9 kB Used in GitHub's Storage 
+> 📦 8.5 kB Used in GitHub's Storage 
  > 
 > 🏆 25 Contributions in the Year 2026
  > 
@@ -46,21 +46,21 @@ Data Engineer
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                88 commits          ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-🌆 Daytime                124 commits         ████████░░░░░░░░░░░░░░░░░   31.63 % 
-🌃 Evening                167 commits         ███████████░░░░░░░░░░░░░░   42.60 % 
-🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+🌞 Morning                89 commits          ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
+🌆 Daytime                124 commits         ████████░░░░░░░░░░░░░░░░░   31.47 % 
+🌃 Evening                168 commits         ███████████░░░░░░░░░░░░░░   42.64 % 
+🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-Tuesday                  50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Wednesday                44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Thursday                 78 commits          █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
-Friday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-Saturday                 52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Sunday                   115 commits         ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+Monday                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Tuesday                  52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Wednesday                44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Thursday                 78 commits          █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+Friday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Saturday                 52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Sunday                   115 commits         ███████░░░░░░░░░░░░░░░░░░   29.19 % 
 ```
 
 
@@ -70,43 +70,43 @@ Sunday                   115 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Terraform                2 hrs 11 mins       ███████████░░░░░░░░░░░░░░   43.03 % 
-HCL                      1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   32.36 % 
-Text                     1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
-SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Terraform                2 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   41.79 % 
+HCL                      1 hr 43 mins        ████████░░░░░░░░░░░░░░░░░   32.36 % 
+Text                     1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Novacart_azure_datatocrun4 hrs 57 mins       ████████████████████████░   96.88 % 
-AzureCloudProjects       9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Novacart_azure_datatocrun5 hrs 11 mins       ████████████████████████░   97.02 % 
+AzureCloudProjects       9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 💻 Operating System: 
-Windows                  5 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (15.51%)
+⏱ AI Coding Time: 56 mins (17.58%)
 
-✍️ 162 lines written by AI, 687 lines written by hand (19.08% AI-written)
+✍️ 162 lines written by AI, 740 lines written by hand (17.96% AI-written)
 
 🔤 82,817 Input Tokens, 341 Output Tokens
 
 💵 $0.25 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 5 AI Prompts
+🧠 2 AI Sessions, 8 AI Prompts
 
 Github-Copilot           162 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 19.08% of written lines came from AI
-📝 Concise Prompter — average 131 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 81.82% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 17.96% of written lines came from AI
+📄 Detailed Prompter — average 912 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 82.84% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -125,5 +125,5 @@ Python                   2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhijit-taware/abhijit-taware/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 19:07:49 UTC
+ Last Updated on 18/08/2026 19:07:19 UTC
 <!--END_SECTION:waka-->
