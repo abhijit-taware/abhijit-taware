@@ -33,7 +33,7 @@ Data Engineer
 
 **🐱 My GitHub Data** 
 
-> 📦 9.8 kB Used in GitHub's Storage 
+> 📦 10.4 kB Used in GitHub's Storage 
  > 
 > 🏆 25 Contributions in the Year 2026
  > 
@@ -70,29 +70,29 @@ Sunday                   115 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Terraform                2 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   41.79 % 
-HCL                      1 hr 43 mins        ████████░░░░░░░░░░░░░░░░░   32.36 % 
-Text                     1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+HCL                      1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   34.80 % 
+Text                     1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   32.83 % 
+Terraform                1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   30.00 % 
+SQL                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Novacart_azure_datatocrun5 hrs 11 mins       ████████████████████████░   97.02 % 
-AzureCloudProjects       9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Novacart_azure_datatocrun3 hrs 50 mins       ████████████████████████░   96.00 % 
+AzureCloudProjects       9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 mins (17.58%)
+⏱ AI Coding Time: 56 mins (23.54%)
 
-✍️ 162 lines written by AI, 740 lines written by hand (17.96% AI-written)
+✍️ 162 lines written by AI, 455 lines written by hand (26.26% AI-written)
 
 🔤 82,817 Input Tokens, 341 Output Tokens
 
@@ -103,10 +103,10 @@ Windows                  5 hrs 20 mins       ███████████�
 Github-Copilot           162 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 17.96% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 26.26% of written lines came from AI
 📄 Detailed Prompter — average 912 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 82.84% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 74.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -125,5 +125,5 @@ Python                   2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhijit-taware/abhijit-taware/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 19:10:42 UTC
+ Last Updated on 21/08/2026 19:07:01 UTC
 <!--END_SECTION:waka-->
