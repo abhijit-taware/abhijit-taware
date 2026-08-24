@@ -33,7 +33,7 @@ Data Engineer
 
 **🐱 My GitHub Data** 
 
-> 📦 11.7 kB Used in GitHub's Storage 
+> 📦 12.3 kB Used in GitHub's Storage 
  > 
 > 🏆 25 Contributions in the Year 2026
  > 
@@ -70,26 +70,25 @@ Sunday                   115 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HCL                      21 mins             ███████████░░░░░░░░░░░░░░   42.65 % 
-Text                     13 mins             ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-Terraform                11 mins             ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-SQL                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Text                     7 mins              █████████████░░░░░░░░░░░░   50.10 % 
+HCL                      4 mins              ████████░░░░░░░░░░░░░░░░░   32.16 % 
+Terraform                2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+SQL                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 🔥 Editors: 
-VS Code                  50 mins             █████████████████████████   100.00 % 
+VS Code                  14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Novacart_azure_datatocrun50 mins             █████████████████████████   100.00 % 
+Novacart_azure_datatocrun14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  50 mins             █████████████████████████   100.00 % 
+Windows                  14 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (17.37%)
+⏱ AI Coding Time: 8 mins (61.59%)
 
 ✍️ 0 lines written by AI, 53 lines written by hand (0.0% AI-written)
 
@@ -122,5 +121,5 @@ Python                   2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhijit-taware/abhijit-taware/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 18:57:35 UTC
+ Last Updated on 24/08/2026 19:10:15 UTC
 <!--END_SECTION:waka-->
