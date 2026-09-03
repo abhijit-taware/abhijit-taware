@@ -33,7 +33,7 @@ Data Engineer
 
 **🐱 My GitHub Data** 
 
-> 📦 17.9 kB Used in GitHub's Storage 
+> 📦 6.4 kB Used in GitHub's Storage 
  > 
 > 🏆 25 Contributions in the Year 2026
  > 
@@ -104,5 +104,5 @@ Python                   2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhijit-taware/abhijit-taware/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 21:12:24 UTC
+ Last Updated on 03/09/2026 21:13:54 UTC
 <!--END_SECTION:waka-->
