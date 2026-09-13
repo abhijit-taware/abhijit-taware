@@ -25,15 +25,15 @@ Data Engineer
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 8.1 kB Used in GitHub's Storage 
+> 📦 8.4 kB Used in GitHub's Storage 
  > 
 > 🏆 25 Contributions in the Year 2026
  > 
@@ -70,27 +70,45 @@ Sunday                   74 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-SQL                      40 mins             ██████████████████░░░░░░░   70.77 % 
-HCL                      14 mins             ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-Terraform                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Python                   2 hrs 36 mins       ██████████████████░░░░░░░   70.09 % 
+SQL                      44 mins             █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+HCL                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-VS Code                  57 mins             █████████████████████████   100.00 % 
+VS Code                  3 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SentinelPay360           42 mins             ██████████████████░░░░░░░   72.90 % 
-Novacart_azure_datatocrun15 mins             ███████░░░░░░░░░░░░░░░░░░   27.10 % 
+SentinelPay360           3 hrs 27 mins       ███████████████████████░░   92.73 % 
+Novacart_azure_datatocrun15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+generators               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Lib                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  57 mins             █████████████████████████   100.00 % 
+Windows                  3 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 40 mins (17.92%)
+
+✍️ 0 lines written by AI, 1,064 lines written by hand (0.0% AI-written)
+
+🔤 171,439 Input Tokens, 5,139 Output Tokens
+
+💵 $0.59 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 8 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 33 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -108,5 +126,5 @@ HCL                      2 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhijit-taware/abhijit-taware/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 20:48:20 UTC
+ Last Updated on 13/09/2026 21:03:04 UTC
 <!--END_SECTION:waka-->
