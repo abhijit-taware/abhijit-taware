@@ -33,7 +33,7 @@ Data Engineer
 
 **🐱 My GitHub Data** 
 
-> 📦 12.5 kB Used in GitHub's Storage 
+> 📦 2.8 kB Used in GitHub's Storage 
  > 
 > 🏆 25 Contributions in the Year 2026
  > 
@@ -70,46 +70,45 @@ Sunday                   74 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   5 hrs 37 mins       ██████████████████████░░░   86.65 % 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-Git Config               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-SQL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Python                   3 hrs 1 min         ████████████████████░░░░░   80.81 % 
+Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Git Config               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 28 mins       █████████████████████████   99.75 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+VS Code                  3 hrs 43 mins       █████████████████████████   99.57 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🐱‍💻 Projects: 
-SentinelPay360           6 hrs 23 mins       █████████████████████████   98.47 % 
-scripts                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-generators               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-PROJECTS                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-Lib                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+SentinelPay360           3 hrs 38 mins       ████████████████████████░   97.60 % 
+scripts                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+generators               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+PROJECTS                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Windows                  6 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 36 mins (24.66%)
+⏱ AI Coding Time: 56 mins (25.01%)
 
-✍️ 0 lines written by AI, 1,029 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 367 lines written by hand (0.0% AI-written)
 
-🔤 718,862 Input Tokens, 12,720 Output Tokens
+🔤 547,423 Input Tokens, 7,581 Output Tokens
 
-💵 $2.38 Estimated AI Cost This Week
+💵 $1.79 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 29 AI Prompts
+🧠 2 AI Sessions, 21 AI Prompts
 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 129 characters per prompt
+📝 Concise Prompter — average 166 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -129,5 +128,5 @@ HCL                      2 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhijit-taware/abhijit-taware/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 20:55:00 UTC
+ Last Updated on 20/09/2026 20:59:41 UTC
 <!--END_SECTION:waka-->
