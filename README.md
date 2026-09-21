@@ -25,15 +25,15 @@ Data Engineer
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 2.8 kB Used in GitHub's Storage 
+> 📦 3.5 kB Used in GitHub's Storage 
  > 
 > 🏆 25 Contributions in the Year 2026
  > 
@@ -70,46 +70,47 @@ Sunday                   74 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 1 min         ████████████████████░░░░░   80.81 % 
-Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Git Config               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Python                   3 hrs 1 min         ██████████████████░░░░░░░   73.02 % 
+YAML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Git Config               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 43 mins       █████████████████████████   99.57 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+VS Code                  4 hrs 6 mins        █████████████████████████   99.34 % 
+Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🐱‍💻 Projects: 
-SentinelPay360           3 hrs 38 mins       ████████████████████████░   97.60 % 
-scripts                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-generators               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-PROJECTS                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+SentinelPay360           3 hrs 38 mins       ██████████████████████░░░   87.97 % 
+Misc                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+scripts                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+generators               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+PROJECTS                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Windows                  3 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 mins (25.01%)
+⏱ AI Coding Time: 56 mins (22.9%)
 
-✍️ 0 lines written by AI, 367 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 368 lines written by hand (0.0% AI-written)
 
-🔤 547,423 Input Tokens, 7,581 Output Tokens
+🔤 558,197 Input Tokens, 7,943 Output Tokens
 
-💵 $1.79 Estimated AI Cost This Week
+💵 $1.86 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 21 AI Prompts
+🧠 3 AI Sessions, 22 AI Prompts
 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 166 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📝 Concise Prompter — average 165 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -128,5 +129,5 @@ HCL                      2 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhijit-taware/abhijit-taware/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 20:59:41 UTC
+ Last Updated on 21/09/2026 22:07:34 UTC
 <!--END_SECTION:waka-->
