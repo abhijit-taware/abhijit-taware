@@ -33,7 +33,7 @@ Data Engineer
 
 **🐱 My GitHub Data** 
 
-> 📦 7.2 kB Used in GitHub's Storage 
+> 📦 7.8 kB Used in GitHub's Storage 
  > 
 > 🏆 25 Contributions in the Year 2026
  > 
@@ -70,43 +70,22 @@ Sunday                   74 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     23 mins             ███████████████████████░░   93.93 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  23 mins             ████████████████████████░   97.32 % 
-Codex Vscode             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Misc                     24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (3.65%)
-
-✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
-
-🔤 10,774 Input Tokens, 362 Output Tokens
-
-💵 $0.07 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 144 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -124,5 +103,5 @@ HCL                      2 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhijit-taware/abhijit-taware/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 21:31:24 UTC
+ Last Updated on 28/09/2026 23:26:30 UTC
 <!--END_SECTION:waka-->
