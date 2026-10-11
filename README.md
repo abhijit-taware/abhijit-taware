@@ -33,7 +33,7 @@ Data Engineer
 
 **🐱 My GitHub Data** 
 
-> 📦 4.4 kB Used in GitHub's Storage 
+> 📦 5.1 kB Used in GitHub's Storage 
  > 
 > 🏆 25 Contributions in the Year 2026
  > 
@@ -70,41 +70,22 @@ Sunday                   74 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     10 mins             ████████████████████░░░░░   79.08 % 
-Python                   2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              ████████████░░░░░░░░░░░░░   48.51 % 
-Copilot CLI              4 mins              ████████░░░░░░░░░░░░░░░░░   30.57 % 
-Unknown Editor           2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-SentinelPay360           13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (79.95%)
-
-✍️ 0 lines written by AI, 6 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 13 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 2,427 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -122,5 +103,5 @@ HCL                      2 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhijit-taware/abhijit-taware/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 21:56:10 UTC
+ Last Updated on 11/10/2026 22:18:07 UTC
 <!--END_SECTION:waka-->
